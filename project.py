@@ -55,7 +55,7 @@ if b3:
         st.audio(audio, format="audio/wav")
     
     st.write("Video")
-    video = "https://www.youtube.com/shorts/dvYypoec4e0"
+    video = "https://www.youtube.com/watch?v=4IWU4UcCK5w"
     st.video(video, format="video/mp4")
     
     with col7:
@@ -83,7 +83,7 @@ if b5:
         st.audio(audio, format="audio/wav")
     
     st.write("Video")
-    video = "https://www.youtube.com/shorts/nVdvFuR9aQo"
+    video = "https://www.youtube.com/watch?v=NDhkJq0Dto0"
     st.video(video, format="video/mp4")
     
     with col7:
